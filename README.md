@@ -30,3 +30,5 @@ interests: ["Reading Books", "Exploring new places", "Meeting new people"]
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="php" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/tableau.svg" alt="php" width="45" height="45"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikki2929)](https://github.com/ryo-ma/github-profile-trophy)
