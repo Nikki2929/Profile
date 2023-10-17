@@ -30,5 +30,3 @@ interests: ["Reading Books", "Exploring new places", "Meeting new people"]
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="php" width="45" height="45"/>
 <img src="https://simpleicons.org/icons/tableau.svg" alt="php" width="45" height="45"/>
 </p>
-
-![Snake animation](https://github.com/Nikki2929/Nikki2929/blob/output/github-contribution-grid-snake.svg)
