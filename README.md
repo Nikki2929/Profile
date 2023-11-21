@@ -4,7 +4,7 @@ Name: Nikhita V Kencharadder
 Located_in: Toronto, Canada
 Education:
 [
-  "Post Graduate Certificate in Data Analyis for Business Decision Making",
+  "Student at Durham College studying Data Analysis for Business Decision Making",
   "Bachelor's in Mechanical Engineering",
 ]
 Feilds_of_interest:
